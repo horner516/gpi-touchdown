@@ -1,0 +1,7 @@
+GPI Touchdown ATEM integration includes PyATEMMax 1.0b9.
+Project: https://github.com/clvLabs/PyATEMMax
+Source archive: https://pypi.org/project/PyATEMMax/1.0b9/
+Archive SHA256: 6ef556ce17242ad90ad2ed793311226c37a083a6b7b03f6fdaea439f82f62f41
+License: GNU GPL version 3; original license and full library source are in PyATEMMax/.
+GPI Touchdown with the bundled ATEM integration is distributed under GPLv3; see LICENSE in the source kit.
+The vendored Python files are unmodified. The integration extends source/aux lookup tables at runtime and closes the UDP socket after disconnect.

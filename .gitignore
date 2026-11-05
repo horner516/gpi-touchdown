@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.img
+*.img.xz
+*.img.gz
+SETUP-CREDENTIALS.txt
+credentials.json
+simulation-state/
